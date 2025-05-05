@@ -28,7 +28,7 @@ This interactive dashboard covers:
 
 ---
 
-## 🧠 Techniques Used
+## Techniques Used
 
 - Data Cleaning & Feature Engineering with **Pandas**
 - Exploratory Data Analysis (EDA) with **Seaborn & Matplotlib**
@@ -39,7 +39,7 @@ This interactive dashboard covers:
 
 ---
 
-## 💡 Future Enhancements
+## Future Enhancements
 
 - Deep dive into lyrics-based sentiment (using NLP)
 - Time-series modeling of artist-specific growth
